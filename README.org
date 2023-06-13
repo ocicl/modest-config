@@ -1,0 +1,10 @@
+* modest-config
+
+A modest config file loader library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tormaroe/modest-config.git   |
+| commit  | cf75964  |
+| systems | modest-config |
+|---------+-------------------------------------------|
+
